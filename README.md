@@ -5,6 +5,6 @@ I enjoy to see the web evolve since 2012 and have found my true passion in compl
 Let me throw some buzzwords at you so you get an idea of my work:
 
 - Angular, Vue
-- JS mother-tongue
+- Typescript!
 - Python, Go, C++
 - Webassembly :heart:
