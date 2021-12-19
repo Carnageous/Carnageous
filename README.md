@@ -6,5 +6,5 @@ Let me throw some buzzwords at you so you get an idea of my work:
 
 - Angular, Vue, (React since some months)
 - Typescript!
-- Python, Go, C++
+- Python, Go
 - Webassembly :heart:
